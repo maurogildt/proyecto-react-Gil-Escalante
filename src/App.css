@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(40, 50, 120, 0.5);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+}
+
+.brand-logo{
+    margin-left: 20px;
+    font-family: 'Tangerine', serif;
+    font-size: 40px !important;
+}
+.collapsible-header{
+    color: black;
+}
+.lighten-5 a{
+    color: rgb(80, 80, 80) !important;
+}
+
+.dropdown-content {
+    border-radius: 0px 0px 25px 25px;
+}
