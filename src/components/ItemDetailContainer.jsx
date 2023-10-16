@@ -18,7 +18,7 @@ const ItemDetailContainer = () => {
 
     return (
         <div className='row mb-3 container itemDetail'>
-            {product ? <ItemDetail item={product} /> : <p>Producto no encontrado</p>}
+            {product ? <ItemDetail item={product} /> : <h5>Producto no encontrado 🔎</h5>}
         </div>
     );
 };

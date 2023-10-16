@@ -32,3 +32,6 @@ body{
     padding: 10px;
     background-color: rgba(255, 0, 0, 0.1);
 }
+.btn-floating{
+    margin: 0px 10px;
+}

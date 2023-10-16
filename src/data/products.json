@@ -5,7 +5,7 @@
     "category": "bebidas",
     "price": 200.0,
     "stock": 6,
-    "image": "http://dummyimage.com/202x100.png/ff4444/ffffff"
+    "image": "/src/data/images/cocacola.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "category": "bebidas",
     "price": 180.0,
     "stock": 8,
-    "image": "http://dummyimage.com/143x100.png/cc0000/ffffff"
+    "image": "/src/data/images/pepsi.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "category": "snacks",
     "price": 150.0,
     "stock": 10,
-    "image": "http://dummyimage.com/207x100.png/5fa2dd/ffffff"
+    "image": "/src/data/images/doritos.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "category": "snacks",
     "price": 120.0,
     "stock": 12,
-    "image": "http://dummyimage.com/181x100.png/dddddd/000000"
+    "image": "/src/data/images/pringles.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "category": "golosinas",
     "price": 80.0,
     "stock": 15,
-    "image": "http://dummyimage.com/202x100.png/ff4444/ffffff"
+    "image": "/src/data/images/chocolinas.jpg"
   },
   {
     "id": 6,
@@ -45,23 +45,23 @@
     "category": "golosinas",
     "price": 100.0,
     "stock": 18,
-    "image": "http://dummyimage.com/143x100.png/cc0000/ffffff"
+    "image": "/src/data/images/oreo.jpg"
   },
   {
     "id": 7,
-    "name": "Cuaderno A4",
+    "name": "Cuadernos A4",
     "category": "libreria",
     "price": 50.0,
     "stock": 20,
-    "image": "http://dummyimage.com/207x100.png/5fa2dd/ffffff"
+    "image": "/src/data/images/cuadernos.jpg"
   },
   {
     "id": 8,
-    "name": "Lapiceras Azules (10u)",
+    "name": "Lapiceras Azules (20u)",
     "category": "libreria",
     "price": 30.0,
     "stock": 25,
-    "image": "http://dummyimage.com/181x100.png/dddddd/000000"
+    "image": "/src/data/images/lapiceras.jpg"
   },
   {
     "id": 9,
@@ -69,23 +69,23 @@
     "category": "libreria",
     "price": 120.0,
     "stock": 8,
-    "image": "http://dummyimage.com/202x100.png/ff4444/ffffff"
+    "image": "/src/data/images/agenda.jpg"
   },
   {
     "id": 10,
-    "name": "Agua Mineral 1L",
+    "name": "Agua Mineral 1,5L",
     "category": "bebidas",
     "price": 50.0,
     "stock": 14,
-    "image": "http://dummyimage.com/143x100.png/cc0000/ffffff"
+    "image": "/src/data/images/agua.jpg"
   },
   {
     "id": 11,
-    "name": "Gomitas de Frutas",
+    "name": "Gomitas",
     "category": "golosinas",
     "price": 60.0,
     "stock": 22,
-    "image": "http://dummyimage.com/207x100.png/5fa2dd/ffffff"
+    "image": "/src/data/images/gomitas.jpg"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "category": "golosinas",
     "price": 90.0,
     "stock": 10,
-    "image": "http://dummyimage.com/181x100.png/dddddd/000000"
+    "image": "/src/data/images/chocolate.jpg"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "category": "bebidas",
     "price": 220.0,
     "stock": 7,
-    "image": "http://dummyimage.com/202x100.png/ff4444/ffffff"
+    "image": "/src/data/images/fanta.jpg"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "category": "bebidas",
     "price": 250.0,
     "stock": 5,
-    "image": "http://dummyimage.com/143x100.png/cc0000/ffffff"
+    "image": "/src/data/images/cerveza.jpg"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "category": "snacks",
     "price": 80.0,
     "stock": 16,
-    "image": "http://dummyimage.com/207x100.png/5fa2dd/ffffff"
+    "image": "/src/data/images/papasfritas.jpg"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "category": "golosinas",
     "price": 10.0,
     "stock": 50,
-    "image": "http://dummyimage.com/181x100.png/dddddd/000000"
+    "image": "/src/data/images/chicles.jpg"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "category": "libreria",
     "price": 25.0,
     "stock": 30,
-    "image": "http://dummyimage.com/202x100.png/ff4444/ffffff"
+    "image": "/src/data/images/lapices.jpg"
   },
   {
     "id": 18,
@@ -141,22 +141,22 @@
     "category": "libreria",
     "price": 70.0,
     "stock": 10,
-    "image": "http://dummyimage.com/143x100.png/cc0000/ffffff"
+    "image": "/src/data/images/grapadora.jpg"
   },
   {
     "id": 19,
-    "name": "Caja de Bombones",
+    "name": "Chupetines",
     "category": "golosinas",
     "price": 120.0,
     "stock": 8,
-    "image": "http://dummyimage.com/207x100.png/5fa2dd/ffffff"
+    "image": "/src/data/images/chupetines.jpg"
   },
   {
     "id": 20,
-    "name": "Libreta de Dibujos",
+    "name": "Cartuchera",
     "category": "libreria",
-    "price": 60.0,
-    "stock": 15,
-    "image": "http://dummyimage.com/181x100.png/dddddd/000000"
+    "price": 160.0,
+    "stock": 5,
+    "image": "/src/data/images/cartuchera.jpg"
   }
 ]

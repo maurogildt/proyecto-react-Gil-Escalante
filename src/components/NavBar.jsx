@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import CartWidget from "./CartWidget";
+import { Link } from "react-router-dom";
 import M from "materialize-css";
 
 function NavBar() {
@@ -16,15 +17,15 @@ function NavBar() {
   return (
     <>
       <ul id="dropdown1" className="dropdown-content purple lighten-5">
-        <li><a href="http://localhost:5173/category/bebidas">Bebidas 🥤</a></li>
-        <li><a href="http://localhost:5173/category/snacks">Snacks 🍪</a></li>
-        <li><a href="http://localhost:5173/category/golosinas">Golosinas 🍬</a></li>
-        <li><a href="http://localhost:5173/category/libreria">Librería 📚</a></li>
+        <li><Link to={`/category/bebidas`}>Bebidas 🥤</Link></li>
+        <li><Link to={`/category/snacks`}>Snacks 🍪</Link></li>
+        <li><Link to={`/category/golosinas`}>Golosinas 🍬</Link></li>
+        <li><Link to={`/category/libreria`}>Librería 📚</Link></li>
       </ul>
       <div>
         <nav>
           <div className="nav-wrapper purple lighten-3">
-            <a href="#" className="brand-logo left">Kiosco Express ✨</a>
+            <Link to={`/`} className="brand-logo left">Kiosco Express ✨</Link>
             <ul className="right hide-on-small-only">
               <li><a href="#" className="dropdown-trigger-desktop" data-target="dropdown1">Productos<i className="material-icons right">arrow_drop_down</i></a></li>
               <li><a href="#">Contacto</a></li>
@@ -37,10 +38,10 @@ function NavBar() {
                   <li>
                     <div className="collapsible-header">Productos<i className="material-icons right">arrow_drop_down</i></div>
                     <div className="collapsible-body purple lighten-5">
-                      <a href="http://localhost:5173/category/bebidas">Bebidas 🥤</a>
-                      <a href="http://localhost:5173/category/snacks">Snacks 🍪</a>
-                      <a href="http://localhost:5173/category/golosinas">Golosinas 🍬</a>
-                      <a href="http://localhost:5173/category/libreria">Librería 📚</a>
+                      <Link to={`/category/bebidas`}>Bebidas 🥤</Link>
+                      <Link to={`/category/snacks`}>Snacks 🍪</Link>
+                      <Link to={`/category/golosinas`}>Golosinas 🍬</Link>
+                      <Link to={`/category/libreria`}>Librería 📚</Link>
                     </div>
                   </li>
                 </ul>
