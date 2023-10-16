@@ -16,10 +16,10 @@ function NavBar() {
   return (
     <>
       <ul id="dropdown1" className="dropdown-content purple lighten-5">
-        <li><a href="#">Bebidas 🥤</a></li>
-        <li><a href="#">Snacks 🍪</a></li>
-        <li><a href="#">Golosinas 🍬</a></li>
-        <li><a href="#">Librería 📚</a></li>
+        <li><a href="http://localhost:5173/category/bebidas">Bebidas 🥤</a></li>
+        <li><a href="http://localhost:5173/category/snacks">Snacks 🍪</a></li>
+        <li><a href="http://localhost:5173/category/golosinas">Golosinas 🍬</a></li>
+        <li><a href="http://localhost:5173/category/libreria">Librería 📚</a></li>
       </ul>
       <div>
         <nav>
@@ -37,10 +37,10 @@ function NavBar() {
                   <li>
                     <div className="collapsible-header">Productos<i className="material-icons right">arrow_drop_down</i></div>
                     <div className="collapsible-body purple lighten-5">
-                      <a href="#">Bebidas 🥤</a>
-                      <a href="#">Snacks 🍪</a>
-                      <a href="#">Golosinas 🍬</a>
-                      <a href="#">Librería 📚</a>
+                      <a href="http://localhost:5173/category/bebidas">Bebidas 🥤</a>
+                      <a href="http://localhost:5173/category/snacks">Snacks 🍪</a>
+                      <a href="http://localhost:5173/category/golosinas">Golosinas 🍬</a>
+                      <a href="http://localhost:5173/category/libreria">Librería 📚</a>
                     </div>
                   </li>
                 </ul>

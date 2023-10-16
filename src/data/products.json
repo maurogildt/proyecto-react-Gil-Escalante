@@ -1,162 +1,162 @@
 [
   {
     "id": 1,
-    "name": "Bread Fig And Almond",
-    "category": "Drywall & Acoustical (FED)",
-    "price": 126.02,
-    "stock": 39,
-    "image": "http://dummyimage.com/108x100.png/dddddd/000000"
+    "name": "Coca Cola 2L",
+    "category": "bebidas",
+    "price": 200.0,
+    "stock": 6,
+    "image": "http://dummyimage.com/202x100.png/ff4444/ffffff"
   },
   {
     "id": 2,
-    "name": "Lamb - Ground",
-    "category": "Roofing (Asphalt)",
-    "price": 309.04,
+    "name": "Pepsi 2L",
+    "category": "bebidas",
+    "price": 180.0,
     "stock": 8,
-    "image": "http://dummyimage.com/175x100.png/5fa2dd/ffffff"
+    "image": "http://dummyimage.com/143x100.png/cc0000/ffffff"
   },
   {
     "id": 3,
-    "name": "Bread Ww Cluster",
-    "category": "Glass & Glazing",
-    "price": 261.93,
-    "stock": 2,
-    "image": "http://dummyimage.com/152x100.png/dddddd/000000"
-  },
-  {
-    "id": 4,
-    "name": "Liners - Banana, Paper",
-    "category": "Epoxy Flooring",
-    "price": 48.65,
-    "stock": 18,
-    "image": "http://dummyimage.com/155x100.png/dddddd/000000"
-  },
-  {
-    "id": 5,
-    "name": "Cookie Chocolate Chip With",
-    "category": "Elevator",
-    "price": 202.41,
-    "stock": 23,
-    "image": "http://dummyimage.com/176x100.png/5fa2dd/ffffff"
-  },
-  {
-    "id": 6,
-    "name": "Mushroom Morel Fresh",
-    "category": "Electrical and Fire Alarm",
-    "price": 334.51,
-    "stock": 49,
-    "image": "http://dummyimage.com/152x100.png/ff4444/ffffff"
-  },
-  {
-    "id": 7,
-    "name": "Oil - Grapeseed Oil",
-    "category": "Electrical and Fire Alarm",
-    "price": 28.92,
-    "stock": 17,
-    "image": "http://dummyimage.com/110x100.png/dddddd/000000"
-  },
-  {
-    "id": 8,
-    "name": "Hinge W Undercut",
-    "category": "Retaining Wall and Brick Pavers",
-    "price": 328.35,
-    "stock": 21,
-    "image": "http://dummyimage.com/156x100.png/5fa2dd/ffffff"
-  },
-  {
-    "id": 9,
-    "name": "Lotus Rootlets - Canned",
-    "category": "Soft Flooring and Base",
-    "price": 214.51,
-    "stock": 9,
-    "image": "http://dummyimage.com/210x100.png/ff4444/ffffff"
-  },
-  {
-    "id": 10,
-    "name": "Wine - Valpolicella Masi",
-    "category": "Sitework & Site Utilities",
-    "price": 352.28,
-    "stock": 24,
-    "image": "http://dummyimage.com/202x100.png/5fa2dd/ffffff"
-  },
-  {
-    "id": 11,
-    "name": "Chocolate - Unsweetened",
-    "category": "Roofing (Asphalt)",
-    "price": 581.16,
-    "stock": 31,
-    "image": "http://dummyimage.com/206x100.png/cc0000/ffffff"
-  },
-  {
-    "id": 12,
-    "name": "Squid U5 - Thailand",
-    "category": "Framing (Steel)",
-    "price": 763.03,
-    "stock": 36,
-    "image": "http://dummyimage.com/157x100.png/dddddd/000000"
-  },
-  {
-    "id": 13,
-    "name": "Soup - Campbells Chili",
-    "category": "Sitework & Site Utilities",
-    "price": 950.69,
-    "stock": 15,
-    "image": "http://dummyimage.com/135x100.png/ff4444/ffffff"
-  },
-  {
-    "id": 14,
-    "name": "Higashimaru Usukuchi Soy",
-    "category": "Casework",
-    "price": 263.87,
-    "stock": 9,
-    "image": "http://dummyimage.com/181x100.png/cc0000/ffffff"
-  },
-  {
-    "id": 15,
-    "name": "Butter Ripple - Phillips",
-    "category": "Sitework & Site Utilities",
-    "price": 177.19,
-    "stock": 27,
-    "image": "http://dummyimage.com/181x100.png/dddddd/000000"
-  },
-  {
-    "id": 16,
-    "name": "Raspberries - Fresh",
-    "category": "Roofing (Asphalt)",
-    "price": 816.14,
-    "stock": 21,
+    "name": "Doritos Nachos",
+    "category": "snacks",
+    "price": 150.0,
+    "stock": 10,
     "image": "http://dummyimage.com/207x100.png/5fa2dd/ffffff"
   },
   {
+    "id": 4,
+    "name": "Pringles Original",
+    "category": "snacks",
+    "price": 120.0,
+    "stock": 12,
+    "image": "http://dummyimage.com/181x100.png/dddddd/000000"
+  },
+  {
+    "id": 5,
+    "name": "Chocolinas",
+    "category": "golosinas",
+    "price": 80.0,
+    "stock": 15,
+    "image": "http://dummyimage.com/202x100.png/ff4444/ffffff"
+  },
+  {
+    "id": 6,
+    "name": "Galletitas Oreo",
+    "category": "golosinas",
+    "price": 100.0,
+    "stock": 18,
+    "image": "http://dummyimage.com/143x100.png/cc0000/ffffff"
+  },
+  {
+    "id": 7,
+    "name": "Cuaderno A4",
+    "category": "libreria",
+    "price": 50.0,
+    "stock": 20,
+    "image": "http://dummyimage.com/207x100.png/5fa2dd/ffffff"
+  },
+  {
+    "id": 8,
+    "name": "Lapiceras Azules (10u)",
+    "category": "libreria",
+    "price": 30.0,
+    "stock": 25,
+    "image": "http://dummyimage.com/181x100.png/dddddd/000000"
+  },
+  {
+    "id": 9,
+    "name": "Agenda 2023",
+    "category": "libreria",
+    "price": 120.0,
+    "stock": 8,
+    "image": "http://dummyimage.com/202x100.png/ff4444/ffffff"
+  },
+  {
+    "id": 10,
+    "name": "Agua Mineral 1L",
+    "category": "bebidas",
+    "price": 50.0,
+    "stock": 14,
+    "image": "http://dummyimage.com/143x100.png/cc0000/ffffff"
+  },
+  {
+    "id": 11,
+    "name": "Gomitas de Frutas",
+    "category": "golosinas",
+    "price": 60.0,
+    "stock": 22,
+    "image": "http://dummyimage.com/207x100.png/5fa2dd/ffffff"
+  },
+  {
+    "id": 12,
+    "name": "Chocolate con Leche",
+    "category": "golosinas",
+    "price": 90.0,
+    "stock": 10,
+    "image": "http://dummyimage.com/181x100.png/dddddd/000000"
+  },
+  {
+    "id": 13,
+    "name": "Fanta 2L",
+    "category": "bebidas",
+    "price": 220.0,
+    "stock": 7,
+    "image": "http://dummyimage.com/202x100.png/ff4444/ffffff"
+  },
+  {
+    "id": 14,
+    "name": "Cerveza Artesanal",
+    "category": "bebidas",
+    "price": 250.0,
+    "stock": 5,
+    "image": "http://dummyimage.com/143x100.png/cc0000/ffffff"
+  },
+  {
+    "id": 15,
+    "name": "Papas Fritas",
+    "category": "snacks",
+    "price": 80.0,
+    "stock": 16,
+    "image": "http://dummyimage.com/207x100.png/5fa2dd/ffffff"
+  },
+  {
+    "id": 16,
+    "name": "Chicles de Menta",
+    "category": "golosinas",
+    "price": 10.0,
+    "stock": 50,
+    "image": "http://dummyimage.com/181x100.png/dddddd/000000"
+  },
+  {
     "id": 17,
-    "name": "Spice - Paprika",
-    "category": "Drywall & Acoustical (MOB)",
-    "price": 224.57,
-    "stock": 6,
-    "image": "http://dummyimage.com/103x100.png/ff4444/ffffff"
+    "name": "Lápices HB (12u)",
+    "category": "libreria",
+    "price": 25.0,
+    "stock": 30,
+    "image": "http://dummyimage.com/202x100.png/ff4444/ffffff"
   },
   {
     "id": 18,
-    "name": "Mousse - Banana Chocolate",
-    "category": "Epoxy Flooring",
-    "price": 174.92,
-    "stock": 16,
+    "name": "Grapadora",
+    "category": "libreria",
+    "price": 70.0,
+    "stock": 10,
     "image": "http://dummyimage.com/143x100.png/cc0000/ffffff"
   },
   {
     "id": 19,
-    "name": "Salami - Genova",
-    "category": "Drywall & Acoustical (FED)",
-    "price": 810.03,
-    "stock": 49,
-    "image": "http://dummyimage.com/153x100.png/ff4444/ffffff"
+    "name": "Caja de Bombones",
+    "category": "golosinas",
+    "price": 120.0,
+    "stock": 8,
+    "image": "http://dummyimage.com/207x100.png/5fa2dd/ffffff"
   },
   {
     "id": 20,
-    "name": "Soup Campbells - Tomato Bisque",
-    "category": "Overhead Doors",
-    "price": 165.96,
-    "stock": 37,
-    "image": "http://dummyimage.com/202x100.png/ff4444/ffffff"
+    "name": "Libreta de Dibujos",
+    "category": "libreria",
+    "price": 60.0,
+    "stock": 15,
+    "image": "http://dummyimage.com/181x100.png/dddddd/000000"
   }
 ]
