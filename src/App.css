@@ -35,3 +35,11 @@ body{
 .btn-floating{
     margin: 0px 10px;
 }
+
+.badge{
+    border-radius: 20px !important;
+}
+
+.card-panel{
+    border-radius: 20px;
+}
