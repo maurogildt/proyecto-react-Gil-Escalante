@@ -1,23 +1,9 @@
 import React, { useContext } from "react"
 import { CartContext } from "../context/CartContext"
-import Swal from "sweetalert2"
+import { Link } from "react-router-dom"
 
 const Cart = () => {
-    const { cart, clearCart } = useContext(CartContext)
-
-    const calcularTotal = () => {
-        return cart.reduce((total, item) => total + item.price * item.quantity, 0).toFixed(2)
-    }
-
-    const handleFinalizarCompra = () => {
-        Swal.fire({
-            title: "Compra Finalizada",
-            text: "Gracias por tu compra. El total es $" + calcularTotal(),
-            icon: "success",
-            confirmButtonText: "Cerrar",
-        })
-        clearCart()
-    }
+    const { cart, totalPrice } = useContext(CartContext)
 
     return (
         <div>
@@ -48,8 +34,8 @@ const Cart = () => {
                             ))}
                         </tbody>
                     </table>
-                        <p className="right-align">Total: ${calcularTotal()}</p>
-                        <button className="right badge purple lighten-2" onClick={handleFinalizarCompra}>Finalizar Compra</button>
+                        <p className="right-align">Total: ${totalPrice()}</p>
+                        <Link className="btn right badge purple lighten-2" to={`/checkout`}>Finalizar Compra</Link>
                 </div>
             )}
         </div>

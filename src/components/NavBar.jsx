@@ -28,8 +28,7 @@ function NavBar() {
             <Link to={`/`} className="brand-logo left">Kiosco Express ✨</Link>
             <ul className="right hide-on-small-only">
               <li><a href="#" className="dropdown-trigger-desktop" data-target="dropdown1">Productos<i className="material-icons right">arrow_drop_down</i></a></li>
-              <li><a href="#">Contacto</a></li>
-              <li><a href="#">Ubicación</a></li>
+              <li><Link to={`/contact`}>Contacto</Link></li>
               <li><CartWidget /></li>
             </ul>
             <div className="right hide-on-med-and-up">
@@ -45,8 +44,7 @@ function NavBar() {
                     </div>
                   </li>
                 </ul>
-                <li><a href="#">Contacto</a></li>
-                <li><a href="#">Ubicación</a></li>
+                <li><Link to={`/contact`}>Contacto</Link></li>
                 <li><CartWidget /></li>
               </ul>
               <a href="#" data-target="slide-out" className="sidenav-trigger"><i className="material-icons">menu</i></a>

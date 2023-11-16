@@ -18,12 +18,13 @@ const ItemDetail = ({ item }) => {
                     <div className="card-content">
                         <h2 className="card-title">{item.name}</h2>
                         <ItemCount valInicial={1} stock={item.stock} onAdd={(quantity) => addToCart(item, quantity)} />
-                        <h3 className="price">$ {item.price.toFixed(2)}</h3>
+                        <h3 className="price">$ {item && item.price && item.price.toFixed(2)}</h3>
                     </div>
                 </div>
             </div>
             <div className="card-action">
                 <Link to={`/`}>Volver ↩</Link>
+                <Link className="right" to={`/cart`}>Ir al carrito 🛒</Link>
             </div>
         </div>
     )
